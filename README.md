@@ -4,6 +4,13 @@ first program python to steal password microsoft edge all version browser, send 
 
 change just your infos
 
-demo video youtube
+# demo video youtube
 
-wait link video
+https://www.youtube.com/watch?v=_igBTWa7LGA&feature=youtu.be
+
+# Steal chrome password
+
+https://github.com/hakanonymos/steal-chrome-password-all-version
+
+
+
